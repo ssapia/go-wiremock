@@ -1,4 +1,4 @@
-module github.com/wiremock/go-wiremock
+module github.com/ssapia/go-wiremock
 
 go 1.20
 
